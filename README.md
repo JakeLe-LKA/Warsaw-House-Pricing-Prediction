@@ -1,4 +1,4 @@
-# Warsaw House Price Prediction – Business-Oriented Insights
+# Warsaw house price prediction – Business-oriented insights
 
 ## Project Overview
 
